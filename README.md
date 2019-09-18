@@ -1,2 +1,0 @@
-# tetiko
-study
